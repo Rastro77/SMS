@@ -14,7 +14,7 @@ message = client.messages \
                 .create(
                      body="NOVO PROGRAMADOR NA ÁREA!",
                      from_='+17795480749',
-                     to='+5511991902782'
+                     to='+55(numero pessoasl'
                  )
 
 print(message.sid)
